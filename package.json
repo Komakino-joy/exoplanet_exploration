@@ -1,0 +1,26 @@
+{
+  "name": "nasa-exoplanets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Komakino-joy/exoplanet_exploration.git"
+  },
+  "keywords": [
+    "nasa",
+    "exoplanets"
+  ],
+  "author": "Bryan Alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Komakino-joy/exoplanet_exploration/issues"
+  },
+  "homepage": "https://github.com/Komakino-joy/exoplanet_exploration#readme",
+  "dependencies": {
+    "csv-parse": "^4.15.4"
+  }
+}
